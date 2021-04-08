@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Omer Hijazi</Authors>
+    <Company />
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>An enum containing scan codes for Windows and Linux.
+It can be used for things like simulating or detecting user input e.g. SendInput() in WinAPI.</Description>
+    <Copyright>Copyright (c) 2021 Omer Hijazi</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://omerhijazi404.github.io</PackageProjectUrl>
+    <RepositoryUrl>https://www.github.com/omerhijazi404/ScanCodes</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>Keyboard, Linux, Windows, WinAPI</PackageTags>
+    <NeutralLanguage>en-US</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
